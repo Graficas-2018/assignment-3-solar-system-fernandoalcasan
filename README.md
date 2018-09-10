@@ -15,3 +15,7 @@ Rubric:
 - Most textures can be found here: http://planetpixelemporium.com/
 - The rotation of the system has to be controlled with the left mouse button, while the panning has to be controlled with the right mouse button. Scale of the scene can be controlled as in the examples.
 
+
+Final Result:
+
+![](https://github.com/Graficas-2018/assignment-3-solar-system-fernandoalcasan/blob/master/images/solarsystem_A01019595.gif)
