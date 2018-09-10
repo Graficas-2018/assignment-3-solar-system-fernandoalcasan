@@ -131,7 +131,7 @@ function createScene(canvas)
 
     var textureUrl = "../images/sunmap.jpg";
     var texture = new THREE.TextureLoader().load(textureUrl);
-    var material = new THREE.MeshPhongMaterial({ map: texture });
+    var material = new THREE.MeshBasicMaterial({ map: texture });
 
     textureUrl = "../images/mercurymap.jpg";
     var textureUrl2 = "../images/mercurybump.jpg";
